@@ -1,0 +1,33 @@
+{
+  "input_file": "d:\\Scraper adnan\\preprocessing\\data_fix.csv",
+  "input_rows": 14785,
+  "output_rows": 14783,
+  "removed_rows_total": 2,
+  "invalid_rating_rows": 0,
+  "detected_duplicate_review_id_rows": 0,
+  "detected_duplicate_branch_clean_text_rows": 4,
+  "removed_by_review_id_dedup": 0,
+  "removed_by_branch_text_dedup": 2,
+  "empty_clean_text_rows": 0,
+  "branch_count": 54,
+  "province_count": 17,
+  "sentiment_distribution": {
+    "negatif": 2241,
+    "netral": 332,
+    "positif": 12210
+  },
+  "rating_distribution": {
+    "1": 1816,
+    "2": 425,
+    "3": 332,
+    "4": 440,
+    "5": 11770
+  },
+  "outputs": {
+    "processed_data": "d:\\Scraper adnan\\preprocessing\\data\\processed\\data_clean.csv",
+    "model_ready_data": "d:\\Scraper adnan\\preprocessing\\data\\processed\\data_model_ready.csv",
+    "branch_sentiment_map": "d:\\Scraper adnan\\preprocessing\\reports\\sentiment_map_branch_ready.csv",
+    "aspect_summary": "d:\\Scraper adnan\\preprocessing\\reports\\aspect_summary.csv",
+    "branch_aspect_summary": "d:\\Scraper adnan\\preprocessing\\reports\\branch_aspect_summary.csv"
+  }
+}

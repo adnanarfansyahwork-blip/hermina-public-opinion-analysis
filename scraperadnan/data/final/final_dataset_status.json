@@ -1,0 +1,82 @@
+{
+  "final_dataset": "scraperadnan\\data\\final\\hermina_reviews_balanced_300_per_branch.csv",
+  "branch_distribution": "scraperadnan\\data\\final\\branch_distribution_300_per_branch.csv",
+  "total_reviews": 14785,
+  "branch_count": 54,
+  "branches_at_300": 40,
+  "branches_under_300": 14,
+  "min_reviews_per_branch": 56,
+  "max_reviews_per_branch": 300,
+  "under_300_branches": [
+    {
+      "official_name": "Hermina Badung",
+      "selected_reviews": 56,
+      "remaining_to_300": 244
+    },
+    {
+      "official_name": "Hermina Bogor",
+      "selected_reviews": 73,
+      "remaining_to_300": 227
+    },
+    {
+      "official_name": "Hermina Karawang",
+      "selected_reviews": 100,
+      "remaining_to_300": 200
+    },
+    {
+      "official_name": "Hermina Kendari",
+      "selected_reviews": 100,
+      "remaining_to_300": 200
+    },
+    {
+      "official_name": "Hermina Nusantara",
+      "selected_reviews": 113,
+      "remaining_to_300": 187
+    },
+    {
+      "official_name": "Hermina Salatiga",
+      "selected_reviews": 181,
+      "remaining_to_300": 119
+    },
+    {
+      "official_name": "RS Hermina PIK Dua",
+      "selected_reviews": 192,
+      "remaining_to_300": 108
+    },
+    {
+      "official_name": "RSU Hermina Aceh",
+      "selected_reviews": 263,
+      "remaining_to_300": 37
+    },
+    {
+      "official_name": "Hermina Sukabumi",
+      "selected_reviews": 273,
+      "remaining_to_300": 27
+    },
+    {
+      "official_name": "Hermina Serpong",
+      "selected_reviews": 275,
+      "remaining_to_300": 25
+    },
+    {
+      "official_name": "Hermina Mutiara Bunda Salatiga",
+      "selected_reviews": 276,
+      "remaining_to_300": 24
+    },
+    {
+      "official_name": "Hermina Madiun",
+      "selected_reviews": 287,
+      "remaining_to_300": 13
+    },
+    {
+      "official_name": "Hermina Arcamanik",
+      "selected_reviews": 298,
+      "remaining_to_300": 2
+    },
+    {
+      "official_name": "Hermina Pasteur",
+      "selected_reviews": 298,
+      "remaining_to_300": 2
+    }
+  ]
+}

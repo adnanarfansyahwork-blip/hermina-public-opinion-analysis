@@ -1,0 +1,55 @@
+﻿official_name,official_province,review_count,negatif_count,netral_count,positif_count,mean_rating,mean_word_count,negatif_pct,netral_pct,positif_pct,confidence_level,priority_score
+Hermina Ciledug,JAWA BARAT,300,114,17,169,3.4,38.69,38.0,5.67,56.33,tinggi,49.42
+Hermina Bitung,BANTEN,300,108,9,183,3.49,31.5,36.0,3.0,61.0,tinggi,46.75
+Hermina Yogya,DI YOGYAKARTA,300,101,18,181,3.53,35.94,33.67,6.0,60.33,tinggi,45.17
+Hermina Balikpapan,KALIMANTAN TIMUR,300,99,12,189,3.61,34.7,33.0,4.0,63.0,tinggi,44.0
+Hermina Ciputat,BANTEN,300,99,12,189,3.62,39.79,33.0,4.0,63.0,tinggi,44.0
+Hermina Daan Mogot,DKI JAKARTA,300,94,8,198,3.71,36.91,31.33,2.67,66.0,tinggi,42.0
+Hermina Serpong,BANTEN,275,87,11,177,3.65,39.47,31.64,4.0,64.36,tinggi,41.81
+Hermina Cilegon,BANTEN,300,83,13,204,3.82,28.53,27.67,4.33,68.0,tinggi,38.75
+Hermina Periuk Tangerang,BANTEN,300,80,12,208,3.84,40.45,26.67,4.0,69.33,tinggi,37.67
+Hermina Mekarsari,JAWA BARAT,300,73,8,219,3.96,35.74,24.33,2.67,73.0,tinggi,35.0
+Hermina Lampung,LAMPUNG,300,72,9,219,4.01,33.49,24.0,3.0,73.0,tinggi,34.75
+Hermina Pekalongan,JAWA TENGAH,300,71,11,218,3.97,27.53,23.67,3.67,72.67,tinggi,34.59
+Independent RS UBAYA Managed by Hermina,JAWA TIMUR,300,61,9,230,4.16,46.36,20.33,3.0,76.67,tinggi,31.08
+Hermina Grand Wisata,JAWA BARAT,300,57,15,228,4.14,40.48,19.0,5.0,76.0,tinggi,30.25
+Hermina Ciawi,JAWA BARAT,300,57,10,233,4.17,32.73,19.0,3.33,77.67,tinggi,29.83
+Hermina Depok,JAWA BARAT,300,55,6,239,4.25,38.73,18.33,2.0,79.67,tinggi,28.83
+Hermina OPI Jakabaring,SUMATERA SELATAN,300,54,1,245,4.27,27.06,18.0,0.33,81.67,tinggi,28.08
+Hermina Manado,SULAWESI UTARA,300,53,2,245,4.27,27.21,17.67,0.67,81.67,tinggi,27.84
+RS Hermina Galaxy,JAWA BARAT,300,51,9,240,4.27,39.51,17.0,3.0,80.0,tinggi,27.75
+Hermina Ciruas,BANTEN,300,50,5,245,4.3,29.47,16.67,1.67,81.67,tinggi,27.09
+Hermina Samarinda,KALIMANTAN TIMUR,300,50,2,248,4.31,32.93,16.67,0.67,82.67,tinggi,26.84
+Hermina Arcamanik,JAWA BARAT,298,47,6,245,4.33,43.4,15.77,2.01,82.21,tinggi,26.21
+Hermina Palembang,SUMATERA SELATAN,300,44,7,249,4.38,32.57,14.67,2.33,83.0,tinggi,25.25
+Hermina Soreang,JAWA BARAT,300,40,9,251,4.4,34.1,13.33,3.0,83.67,tinggi,24.08
+Hermina Jatinegara,DKI JAKARTA,300,38,6,256,4.49,39.82,12.67,2.0,85.33,tinggi,23.17
+Hermina Pandanaran,JAWA TENGAH,300,37,9,254,4.44,35.68,12.33,3.0,84.67,tinggi,23.08
+Hermina Makassar,SULAWESI SELATAN,300,34,8,258,4.48,26.28,11.33,2.67,86.0,tinggi,22.0
+Hermina Mutiara Bunda Salatiga,JAWA TENGAH,276,33,6,237,4.44,26.96,11.96,2.17,85.87,tinggi,21.7
+Hermina Tangkuban Perahu,JAWA TIMUR,300,32,6,262,4.52,37.81,10.67,2.0,87.33,tinggi,21.17
+Hermina Madiun,JAWA TIMUR,287,31,9,247,4.52,23.4,10.8,3.14,86.06,tinggi,21.15
+Hermina Bogor,JAWA BARAT,73,12,4,57,4.25,50.45,16.44,5.48,78.08,rendah,20.24
+Hermina Medan,SUMATERA UTARA,300,28,2,270,4.61,29.76,9.33,0.67,90.0,tinggi,19.5
+Hermina Padang,SUMATERA BARAT,300,27,5,268,4.61,29.68,9.0,1.67,89.33,tinggi,19.42
+Hermina Bekasi,JAWA BARAT,300,26,4,270,4.64,39.98,8.67,1.33,90.0,tinggi,19.0
+Hermina Banyumanik,JAWA TENGAH,300,23,8,269,4.62,32.02,7.67,2.67,89.67,tinggi,18.34
+Hermina Wonogiri,JAWA TENGAH,300,21,6,273,4.67,22.44,7.0,2.0,91.0,tinggi,17.5
+Hermina Tasikmalaya,JAWA BARAT,300,20,5,275,4.7,36.43,6.67,1.67,91.67,tinggi,17.09
+Hermina Kemayoran,DKI JAKARTA,300,18,1,281,4.75,29.73,6.0,0.33,93.67,tinggi,16.08
+Hermina Pekanbaru,RIAU,300,16,2,282,4.75,28.68,5.33,0.67,94.0,tinggi,15.5
+Hermina Tangerang,BANTEN,300,15,1,284,4.79,34.22,5.0,0.33,94.67,tinggi,15.08
+RS Hermina PIK Dua,DKI JAKARTA,192,16,2,174,4.61,23.05,8.33,1.04,90.62,sedang,14.99
+Hermina Solo,JAWA TENGAH,300,14,3,283,4.79,31.89,4.67,1.0,94.33,tinggi,14.92
+Hermina Pasteur,JAWA BARAT,298,14,1,283,4.81,36.73,4.7,0.34,94.97,tinggi,14.72
+Hermina Karawang,JAWA BARAT,100,10,4,86,4.45,41.75,10.0,4.0,86.0,sedang,14.33
+Hermina Purwokerto,JAWA TENGAH,300,11,1,288,4.85,32.23,3.67,0.33,96.0,tinggi,13.75
+Hermina Podomoro,DKI JAKARTA,300,10,2,288,4.84,24.79,3.33,0.67,96.0,tinggi,13.5
+Hermina Kendari,SULAWESI TENGGARA,100,10,0,90,4.59,41.92,10.0,0.0,90.0,sedang,13.33
+Hermina Sukabumi,JAWA BARAT,273,8,6,259,4.82,29.75,2.93,2.2,94.87,tinggi,12.58
+Hermina Pasuruan,JAWA TIMUR,300,6,4,290,4.87,23.34,2.0,1.33,96.67,tinggi,12.33
+Hermina Nusantara,KALIMANTAN TIMUR,112,9,2,101,4.63,17.56,8.04,1.79,90.18,sedang,12.22
+RSU Hermina Aceh,ACEH,263,8,1,254,4.85,23.92,3.04,0.38,96.58,tinggi,11.9
+Hermina Metland Cibitung,JAWA BARAT,300,5,1,294,4.92,31.25,1.67,0.33,98.0,tinggi,11.75
+Hermina Salatiga,JAWA TENGAH,180,7,1,172,4.83,15.43,3.89,0.56,95.56,sedang,10.03
+Hermina Badung,BALI,56,2,1,53,4.82,21.0,3.57,1.79,94.64,rendah,5.88

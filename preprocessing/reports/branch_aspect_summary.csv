@@ -1,0 +1,55 @@
+﻿official_name,official_province,review_count,negative_review_count,positive_review_count,dominant_negative_aspect,dominant_negative_aspect_count,dominant_positive_aspect,dominant_positive_aspect_count
+Hermina Ciledug,JAWA BARAT,300,114,169,antrean,58,komunikasi,101
+Hermina Bitung,BANTEN,300,108,183,antrean,49,perawat,109
+Hermina Yogya,DI YOGYAKARTA,300,101,181,antrean,52,dokter,100
+Hermina Ciputat,BANTEN,300,99,189,antrean,68,perawat,121
+Hermina Balikpapan,KALIMANTAN TIMUR,300,99,189,antrean,50,perawat,106
+Hermina Daan Mogot,DKI JAKARTA,300,94,198,antrean,49,perawat,123
+Hermina Serpong,BANTEN,275,87,177,antrean,45,perawat,132
+Hermina Cilegon,BANTEN,300,83,204,antrean,49,komunikasi,129
+Hermina Periuk Tangerang,BANTEN,300,80,208,dokter,33,perawat,140
+Hermina Mekarsari,JAWA BARAT,300,73,219,antrean,40,perawat,128
+Hermina Lampung,LAMPUNG,300,72,219,antrean,34,komunikasi,143
+Hermina Pekalongan,JAWA TENGAH,300,71,218,antrean,32,komunikasi,132
+Independent RS UBAYA Managed by Hermina,JAWA TIMUR,300,61,230,antrean,32,perawat,151
+Hermina Grand Wisata,JAWA BARAT,300,57,228,antrean,37,perawat,167
+Hermina Ciawi,JAWA BARAT,300,57,233,komunikasi,27,komunikasi,133
+Hermina Depok,JAWA BARAT,300,55,239,antrean,28,perawat,189
+Hermina OPI Jakabaring,SUMATERA SELATAN,300,54,245,antrean,21,perawat,130
+Hermina Manado,SULAWESI UTARA,300,53,245,antrean,27,komunikasi,124
+RS Hermina Galaxy,JAWA BARAT,300,51,240,antrean,26,dokter,149
+Hermina Ciruas,BANTEN,300,50,245,antrean,24,perawat,170
+Hermina Samarinda,KALIMANTAN TIMUR,300,50,248,antrean,24,perawat,182
+Hermina Arcamanik,JAWA BARAT,298,47,245,dokter,20,perawat,186
+Hermina Palembang,SUMATERA SELATAN,300,44,249,antrean,27,perawat,177
+Hermina Soreang,JAWA BARAT,300,40,251,antrean,22,perawat,190
+Hermina Jatinegara,DKI JAKARTA,300,38,256,antrean,23,perawat,207
+Hermina Pandanaran,JAWA TENGAH,300,37,254,antrean,21,perawat,204
+Hermina Makassar,SULAWESI SELATAN,300,34,258,antrean,17,perawat,168
+Hermina Mutiara Bunda Salatiga,JAWA TENGAH,276,33,237,antrean,17,komunikasi,124
+Hermina Tangkuban Perahu,JAWA TIMUR,300,32,262,antrean,19,perawat,166
+Hermina Madiun,JAWA TIMUR,287,31,247,antrean,12,komunikasi,160
+Hermina Medan,SUMATERA UTARA,300,28,270,dokter,13,perawat,214
+Hermina Padang,SUMATERA BARAT,300,27,268,antrean,13,perawat,192
+Hermina Bekasi,JAWA BARAT,300,26,270,antrean,17,perawat,218
+Hermina Banyumanik,JAWA TENGAH,300,23,269,antrean,14,perawat,186
+Hermina Wonogiri,JAWA TENGAH,300,21,273,perawat,9,perawat,178
+Hermina Tasikmalaya,JAWA BARAT,300,20,275,antrean,10,perawat,181
+Hermina Kemayoran,DKI JAKARTA,300,18,281,antrean,11,perawat,215
+RS Hermina PIK Dua,DKI JAKARTA,192,16,174,biaya_bpjs,8,komunikasi,89
+Hermina Pekanbaru,RIAU,300,16,282,antrean,7,perawat,241
+Hermina Tangerang,BANTEN,300,15,284,antrean,8,perawat,244
+Hermina Solo,JAWA TENGAH,300,14,283,dokter,9,perawat,228
+Hermina Pasteur,JAWA BARAT,298,14,283,antrean,8,perawat,179
+Hermina Bogor,JAWA BARAT,73,12,57,antrean,6,perawat,49
+Hermina Purwokerto,JAWA TENGAH,300,11,288,antrean,7,perawat,230
+Hermina Karawang,JAWA BARAT,100,10,86,antrean,7,perawat,78
+Hermina Kendari,SULAWESI TENGGARA,100,10,90,dokter,6,perawat,69
+Hermina Podomoro,DKI JAKARTA,300,10,288,dokter,6,perawat,219
+Hermina Nusantara,KALIMANTAN TIMUR,112,9,101,antrean,5,komunikasi,35
+Hermina Sukabumi,JAWA BARAT,273,8,259,komunikasi,5,perawat,178
+RSU Hermina Aceh,ACEH,263,8,254,fasilitas,4,fasilitas,140
+Hermina Salatiga,JAWA TENGAH,180,7,172,biaya_bpjs,5,komunikasi,66
+Hermina Pasuruan,JAWA TIMUR,300,6,290,fasilitas,3,komunikasi,176
+Hermina Metland Cibitung,JAWA BARAT,300,5,294,biaya_bpjs,3,perawat,256
+Hermina Badung,BALI,56,2,53,dokter,1,komunikasi,28

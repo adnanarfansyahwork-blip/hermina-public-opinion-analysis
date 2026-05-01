@@ -1,0 +1,385 @@
+{
+  "cap_per_branch": 300,
+  "total_selected_reviews": 14785,
+  "branch_count_with_reviews": 54,
+  "branches": [
+    {
+      "official_name": "Hermina Arcamanik",
+      "available_reviews": 298,
+      "selected_reviews": 298,
+      "direct_reviews": 277,
+      "mirror_reviews": 21
+    },
+    {
+      "official_name": "Hermina Badung",
+      "available_reviews": 56,
+      "selected_reviews": 56,
+      "direct_reviews": 56,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Balikpapan",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Banyumanik",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Bekasi",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 357,
+      "mirror_reviews": 43
+    },
+    {
+      "official_name": "Hermina Bitung",
+      "available_reviews": 353,
+      "selected_reviews": 300,
+      "direct_reviews": 50,
+      "mirror_reviews": 303
+    },
+    {
+      "official_name": "Hermina Bogor",
+      "available_reviews": 73,
+      "selected_reviews": 73,
+      "direct_reviews": 50,
+      "mirror_reviews": 23
+    },
+    {
+      "official_name": "Hermina Ciawi",
+      "available_reviews": 398,
+      "selected_reviews": 300,
+      "direct_reviews": 398,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Ciledug",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Cilegon",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Ciputat",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Ciruas",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Daan Mogot",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Depok",
+      "available_reviews": 399,
+      "selected_reviews": 300,
+      "direct_reviews": 377,
+      "mirror_reviews": 22
+    },
+    {
+      "official_name": "Hermina Grand Wisata",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Jatinegara",
+      "available_reviews": 342,
+      "selected_reviews": 300,
+      "direct_reviews": 279,
+      "mirror_reviews": 63
+    },
+    {
+      "official_name": "Hermina Karawang",
+      "available_reviews": 100,
+      "selected_reviews": 100,
+      "direct_reviews": 100,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Kemayoran",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Kendari",
+      "available_reviews": 100,
+      "selected_reviews": 100,
+      "direct_reviews": 100,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Lampung",
+      "available_reviews": 398,
+      "selected_reviews": 300,
+      "direct_reviews": 337,
+      "mirror_reviews": 61
+    },
+    {
+      "official_name": "Hermina Madiun",
+      "available_reviews": 287,
+      "selected_reviews": 287,
+      "direct_reviews": 177,
+      "mirror_reviews": 110
+    },
+    {
+      "official_name": "Hermina Makassar",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Manado",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Medan",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 337,
+      "mirror_reviews": 63
+    },
+    {
+      "official_name": "Hermina Mekarsari",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Metland Cibitung",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Mutiara Bunda Salatiga",
+      "available_reviews": 276,
+      "selected_reviews": 276,
+      "direct_reviews": 276,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Nusantara",
+      "available_reviews": 113,
+      "selected_reviews": 113,
+      "direct_reviews": 113,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina OPI Jakabaring",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Padang",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Palembang",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Pandanaran",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Pasteur",
+      "available_reviews": 298,
+      "selected_reviews": 298,
+      "direct_reviews": 217,
+      "mirror_reviews": 81
+    },
+    {
+      "official_name": "Hermina Pasuruan",
+      "available_reviews": 375,
+      "selected_reviews": 300,
+      "direct_reviews": 375,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Pekalongan",
+      "available_reviews": 300,
+      "selected_reviews": 300,
+      "direct_reviews": 300,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Pekanbaru",
+      "available_reviews": 350,
+      "selected_reviews": 300,
+      "direct_reviews": 350,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Periuk Tangerang",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Podomoro",
+      "available_reviews": 398,
+      "selected_reviews": 300,
+      "direct_reviews": 398,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Purwokerto",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Salatiga",
+      "available_reviews": 181,
+      "selected_reviews": 181,
+      "direct_reviews": 181,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Samarinda",
+      "available_reviews": 375,
+      "selected_reviews": 300,
+      "direct_reviews": 375,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Serpong",
+      "available_reviews": 275,
+      "selected_reviews": 275,
+      "direct_reviews": 275,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Solo",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Soreang",
+      "available_reviews": 300,
+      "selected_reviews": 300,
+      "direct_reviews": 300,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Sukabumi",
+      "available_reviews": 273,
+      "selected_reviews": 273,
+      "direct_reviews": 232,
+      "mirror_reviews": 41
+    },
+    {
+      "official_name": "Hermina Tangerang",
+      "available_reviews": 400,
+      "selected_reviews": 300,
+      "direct_reviews": 400,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Tangkuban Perahu",
+      "available_reviews": 399,
+      "selected_reviews": 300,
+      "direct_reviews": 399,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Tasikmalaya",
+      "available_reviews": 300,
+      "selected_reviews": 300,
+      "direct_reviews": 300,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Wonogiri",
+      "available_reviews": 350,
+      "selected_reviews": 300,
+      "direct_reviews": 350,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Hermina Yogya",
+      "available_reviews": 300,
+      "selected_reviews": 300,
+      "direct_reviews": 300,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "Independent RS UBAYA  Managed by Hermina",
+      "available_reviews": 300,
+      "selected_reviews": 300,
+      "direct_reviews": 300,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "RS Hermina Galaxy",
+      "available_reviews": 300,
+      "selected_reviews": 300,
+      "direct_reviews": 299,
+      "mirror_reviews": 1
+    },
+    {
+      "official_name": "RS Hermina PIK Dua",
+      "available_reviews": 192,
+      "selected_reviews": 192,
+      "direct_reviews": 192,
+      "mirror_reviews": 0
+    },
+    {
+      "official_name": "RSU Hermina Aceh",
+      "available_reviews": 263,
+      "selected_reviews": 263,
+      "direct_reviews": 245,
+      "mirror_reviews": 18
+    }
+  ]
+}
